@@ -1,7 +1,5 @@
 # _*_ coding:utf-8 _*_
 
-import cv
-
 def get_max_area(data):
     length = len(data)
     dict_data = dict()

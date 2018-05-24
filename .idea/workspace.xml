@@ -2,13 +2,85 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e8cb66d-4898-485d-809d-745e43a6f958" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test_opencv/mapp_demo.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test_opencv/mouse_demo.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test_opencv/mouse_demo2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test_opencv/px_demo.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test_opencv/video_demo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/test/image_0019.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/test/image_0020.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/test/image_0021.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/test/image_0039.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/test/image_0040.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/test/image_0041.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/test/image_0087.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/test/image_0088.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/test/image_0089.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/train/person1/image_0001.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/train/person1/image_0002.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/train/person1/image_0003.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/train/person1/image_0004.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/train/person1/image_0005.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/train/person1/image_0006.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/train/person1/image_0007.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/train/person1/image_0008.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/train/person1/image_0009.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/train/person1/image_0010.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/train/person1/image_0011.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/train/person1/image_0012.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/train/person1/image_0013.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/train/person1/image_0014.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/train/person1/image_0015.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/train/person1/image_0016.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/train/person1/image_0017.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/train/person1/image_0018.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/train/person2/image_0022.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/train/person2/image_0023.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/train/person2/image_0024.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/train/person2/image_0025.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/train/person2/image_0026.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/train/person2/image_0027.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/train/person2/image_0028.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/train/person2/image_0029.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/train/person2/image_0030.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/train/person2/image_0031.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/train/person2/image_0032.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/train/person2/image_0033.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/train/person2/image_0034.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/train/person2/image_0035.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/train/person2/image_0036.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/train/person2/image_0037.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/train/person2/image_0038.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/train/person3/image_0069.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/train/person3/image_0070.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/train/person3/image_0071.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/train/person3/image_0072.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/train/person3/image_0073.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/train/person3/image_0074.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/train/person3/image_0075.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/train/person3/image_0076.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/train/person3/image_0077.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/train/person3/image_0078.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/train/person3/image_0079.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/train/person3/image_0080.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/train/person3/image_0081.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/train/person3/image_0082.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/train/person3/image_0083.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/train/person3/image_0084.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/train/person3/image_0085.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/faces_dataset/train/person3/image_0086.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/blind_source_separation.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/cascade_files/haarcascade_eye.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/cascade_files/haarcascade_frontalface_alt.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/cascade_files/haarcascade_mcs_nose.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/eye_nose_detector.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/face_detector.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/face_recognizer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/kpca.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/mixture_of_signals.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/pca.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/ml_instances/Chapter10/video_capture.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Python_ml_jing_dian_shi_li/chaper_10_renlianshibie/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Python_ml_jing_dian_shi_li/chaper_10_renlianshibie/demo_01.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Python_ml_jing_dian_shi_li/chaper_10_renlianshibie/demo_02.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test_opencv/opencv_demo_01.py" afterPath="$PROJECT_DIR$/src/test_opencv/opencv_demo_01.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test_opencv/p_demo_01.py" afterPath="$PROJECT_DIR$/src/test_opencv/p_demo_01.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tests/demo.py" afterPath="$PROJECT_DIR$/src/tests/demo.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,6 +90,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/test_openCV$p_demo_01.coverage" NAME="p_demo_01 Coverage Results" MODIFIED="1519897853661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/test_opencv" />
     <SUITE FILE_PATH="coverage/test_openCV$px_demo.coverage" NAME="px_demo Coverage Results" MODIFIED="1519895074961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/test_opencv" />
     <SUITE FILE_PATH="coverage/test_python$b.coverage" NAME="b Coverage Results" MODIFIED="1500018650972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/test_openCV$opencv_demo_01.coverage" NAME="opencv_demo_01 Coverage Results" MODIFIED="1519634194742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/test_opencv" />
@@ -30,6 +103,7 @@
     <SUITE FILE_PATH="coverage/test_python$a.coverage" NAME="a Coverage Results" MODIFIED="1501140186884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/test_openCV$mapp_demo.coverage" NAME="mapp_demo Coverage Results" MODIFIED="1519636225148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/test_opencv" />
     <SUITE FILE_PATH="coverage/test_python$demo_5.coverage" NAME="demo_5 Coverage Results" MODIFIED="1515316340205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/tests" />
+    <SUITE FILE_PATH="coverage/test_openCV$demo_02.coverage" NAME="demo_02 Coverage Results" MODIFIED="1527148016653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Python_ml_jing_dian_shi_li/chaper_10_renlianshibie" />
     <SUITE FILE_PATH="coverage/test_python$demo_2.coverage" NAME="demo_2 Coverage Results" MODIFIED="1514338532013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/tests" />
     <SUITE FILE_PATH="coverage/test_python$Nosetests_in_testFile_py__1_.coverage" NAME="Nosetests in testFile.py (1) Coverage Results" MODIFIED="1514290727839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/stevedoreDemo" />
     <SUITE FILE_PATH="coverage/test_python$demo_test__1_.coverage" NAME="demo_test (1) Coverage Results" MODIFIED="1513167107873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/stevedoreDemo" />
@@ -41,9 +115,12 @@
     <SUITE FILE_PATH="coverage/test_openCV$mouse_demo.coverage" NAME="mouse_demo Coverage Results" MODIFIED="1519636579323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/test_opencv" />
     <SUITE FILE_PATH="coverage/test_python$demo.coverage" NAME="demo Coverage Results" MODIFIED="1515046600407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/tests" />
     <SUITE FILE_PATH="coverage/test_python$demon.coverage" NAME="demon Coverage Results" MODIFIED="1499938899895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/test_openCV$demo_01.coverage" NAME="demo_01 Coverage Results" MODIFIED="1527146205841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Python机器学习经典实例/chaper_10_人脸识别" />
     <SUITE FILE_PATH="coverage/test_python$Nosetests_in_testExcel_py.coverage" NAME="Nosetests in testExcel.py Coverage Results" MODIFIED="1514861970925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/test_openCV$demo.coverage" NAME="demo Coverage Results" MODIFIED="1527150717408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/tests" />
     <SUITE FILE_PATH="coverage/test_python$demo_test.coverage" NAME="demo_test Coverage Results" MODIFIED="1512373618209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/mxx" />
     <SUITE FILE_PATH="coverage/test_python$plot_demo.coverage" NAME="plot_demo Coverage Results" MODIFIED="1513214978223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/myplot" />
+    <SUITE FILE_PATH="coverage/test_openCV$demo_01__1_.coverage" NAME="demo_01 (1) Coverage Results" MODIFIED="1527146527554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Python_ml_jing_dian_shi_li/chaper_10_renlianshibie" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -60,28 +137,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="generate_random_excel.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/tests/generate_random_excel.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding>
-                <element signature="e#24#42#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="demo_01.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/suanfa/demo_01.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="opencv_demo_01.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test_opencv/opencv_demo_01.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -109,8 +164,8 @@
       <file leaf-file-name="mapp_demo.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test_opencv/mapp_demo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="22" />
+            <state relative-caret-position="300">
+              <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
               <folding>
                 <element signature="e#25#43#0" expanded="true" />
               </folding>
@@ -128,23 +183,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mouse_demo2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test_opencv/mouse_demo2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-              <folding>
-                <element signature="e#25#35#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="px_demo.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="px_demo.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test_opencv/px_demo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="141">
-              <caret line="20" column="15" lean-forward="true" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
+            <state relative-caret-position="120">
+              <caret line="6" column="53" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="53" />
               <folding>
                 <element signature="e#24#45#0" expanded="true" />
               </folding>
@@ -152,24 +195,54 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hello.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/testWSGI/hello.py">
+      <file leaf-file-name="demo_01.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Python_ml_jing_dian_shi_li/chaper_10_renlianshibie/demo_01.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="3" column="51" lean-forward="false" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="16" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="server.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/testWSGI/server.py">
+      <file leaf-file-name="demo_02.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Python_ml_jing_dian_shi_li/chaper_10_renlianshibie/demo_02.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+            <state relative-caret-position="270">
+              <caret line="39" column="8" lean-forward="false" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
               <folding>
-                <element signature="e#1#46#0" expanded="true" />
+                <element signature="e#15#25#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="a.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/a.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-900">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demon.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/demon.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-600">
+              <caret line="30" column="20" lean-forward="false" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/tests/demo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="611">
+              <caret line="31" column="7" lean-forward="true" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -209,7 +282,6 @@
         <option value="$PROJECT_DIR$/src/testExcel.py" />
         <option value="$PROJECT_DIR$/src/testExcel/test.py" />
         <option value="$PROJECT_DIR$/src/myTensorflow/demo_01.py" />
-        <option value="$PROJECT_DIR$/src/tests/demo.py" />
         <option value="$PROJECT_DIR$/src/tests/demo_5.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/suanfa/demo_01.py" />
@@ -219,6 +291,11 @@
         <option value="$PROJECT_DIR$/src/test_opencv/mouse_demo.py" />
         <option value="$PROJECT_DIR$/src/test_opencv/mouse_demo2.py" />
         <option value="$PROJECT_DIR$/src/test_opencv/px_demo.py" />
+        <option value="$PROJECT_DIR$/src/test_opencv/p_demo_01.py" />
+        <option value="$PROJECT_DIR$/src/Python机器学习经典实例/chaper_10_人脸识别/demo_01.py" />
+        <option value="$PROJECT_DIR$/src/Python_ml_jing_dian_shi_li/chaper_10_renlianshibie/demo_01.py" />
+        <option value="$PROJECT_DIR$/src/Python_ml_jing_dian_shi_li/chaper_10_renlianshibie/demo_02.py" />
+        <option value="$PROJECT_DIR$/src/tests/demo.py" />
       </list>
     </option>
   </component>
@@ -229,10 +306,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="581" />
-    <option name="y" value="19" />
-    <option name="width" value="1347" />
-    <option name="height" value="921" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1060" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -249,6 +326,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -289,14 +368,60 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="test_opencv" />
+              <option name="myItemId" value="tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_openCV" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_openCV" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resource" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ml_instances" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter10" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_openCV" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_openCV" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resource" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ml_instances" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter10" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cascade_files" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -306,6 +431,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\pycharm_workspace\machine_learning\test_openCV\resource\ml_instances" />
       <recent name="E:\pycharm_workspace\machine_learning\test_openCV" />
       <recent name="E:\pycharm_workspace\test_python\src\testExcel" />
       <recent name="E:\pycharm_workspace\test_python\src\stevedoreDemo" />
@@ -323,8 +449,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.px_demo">
-    <configuration default="false" name="video_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.demo">
+    <configuration default="false" name="p_demo_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -337,83 +463,83 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="test_openCV" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/test_opencv/video_demo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/test_opencv/p_demo_01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="mapp_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="demo_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/test_opencv" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Python机器学习经典实例/chaper_10_人脸识别" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="test_openCV" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/test_opencv/mapp_demo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Python机器学习经典实例/chaper_10_人脸识别/demo_01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="mouse_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="demo_01 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/test_opencv" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Python_ml_jing_dian_shi_li/chaper_10_renlianshibie" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="test_openCV" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/test_opencv/mouse_demo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Python_ml_jing_dian_shi_li/chaper_10_renlianshibie/demo_01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="mouse_demo2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="demo_02" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/test_opencv" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Python_ml_jing_dian_shi_li/chaper_10_renlianshibie" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="test_openCV" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/test_opencv/mouse_demo2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Python_ml_jing_dian_shi_li/chaper_10_renlianshibie/demo_02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="px_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/test_opencv" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="test_openCV" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/test_opencv/px_demo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/tests/demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -569,19 +695,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.video_demo" />
-      <item index="1" class="java.lang.String" itemvalue="Python.mapp_demo" />
-      <item index="2" class="java.lang.String" itemvalue="Python.mouse_demo" />
-      <item index="3" class="java.lang.String" itemvalue="Python.mouse_demo2" />
-      <item index="4" class="java.lang.String" itemvalue="Python.px_demo" />
+      <item index="0" class="java.lang.String" itemvalue="Python.p_demo_01" />
+      <item index="1" class="java.lang.String" itemvalue="Python.demo_01" />
+      <item index="2" class="java.lang.String" itemvalue="Python.demo_01 (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.demo_02" />
+      <item index="4" class="java.lang.String" itemvalue="Python.demo" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.px_demo" />
-        <item index="1" class="java.lang.String" itemvalue="Python.mouse_demo2" />
-        <item index="2" class="java.lang.String" itemvalue="Python.mouse_demo" />
-        <item index="3" class="java.lang.String" itemvalue="Python.mapp_demo" />
-        <item index="4" class="java.lang.String" itemvalue="Python.video_demo" />
+        <item index="0" class="java.lang.String" itemvalue="Python.demo" />
+        <item index="1" class="java.lang.String" itemvalue="Python.demo_02" />
+        <item index="2" class="java.lang.String" itemvalue="Python.demo_01 (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Python.demo_01" />
+        <item index="4" class="java.lang.String" itemvalue="Python.p_demo_01" />
       </list>
     </recent_temporary>
   </component>
@@ -640,18 +766,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="581" y="19" width="1347" height="921" extended-state="0" />
-    <editor active="true" />
+    <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12097408" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20118026" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29143646" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30939227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2908459" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32908458" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30938587" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13572961" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3557358" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25840092" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38006952" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -684,34 +809,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/demon.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1188">
-          <caret line="45" column="15" lean-forward="false" selection-start-line="45" selection-start-column="7" selection-end-line="45" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/myplot/plot_demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="14" column="14" lean-forward="false" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/b.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/a.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="891">
-          <caret line="33" column="12" lean-forward="false" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/demon.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2124">
@@ -793,13 +890,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/demon.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="870">
-          <caret line="30" column="20" lean-forward="false" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -888,13 +978,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/a.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/tests/demo_4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1170">
@@ -922,7 +1005,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="3" column="51" lean-forward="false" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -931,7 +1013,7 @@
         <state relative-caret-position="210">
           <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
           <folding>
-            <element signature="e#1#46#0" expanded="true" />
+            <element signature="e#1#46#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -950,13 +1032,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tests/demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-247">
-          <caret line="6" column="19" lean-forward="false" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/myTensorflow/demo_01.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -969,7 +1044,7 @@
         <state relative-caret-position="90">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding>
-            <element signature="e#24#42#0" expanded="true" />
+            <element signature="e#24#42#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -996,16 +1071,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test_opencv/mapp_demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="22" />
-          <folding>
-            <element signature="e#25#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test_opencv/mouse_demo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -1028,9 +1093,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-          <folding>
-            <element signature="e#25#35#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1046,11 +1108,81 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test_opencv/px_demo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="20" column="15" lean-forward="true" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
+        <state relative-caret-position="120">
+          <caret line="6" column="53" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="53" />
           <folding>
             <element signature="e#24#45#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test_opencv/mapp_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <folding>
+            <element signature="e#25#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test_opencv/p_demo_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="23" lean-forward="false" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+          <folding>
+            <element signature="e#24#45#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/ml_instances/Chapter10/pca.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Python_ml_jing_dian_shi_li/chaper_10_renlianshibie/demo_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="16" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Python_ml_jing_dian_shi_li/chaper_10_renlianshibie/demo_02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="39" column="8" lean-forward="false" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
+          <folding>
+            <element signature="e#15#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-900">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demon.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-600">
+          <caret line="30" column="20" lean-forward="false" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tests/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="611">
+          <caret line="31" column="7" lean-forward="true" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
